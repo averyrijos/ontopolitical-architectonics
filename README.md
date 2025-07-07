@@ -79,7 +79,7 @@ This README and the entire project exemplify a living manuscript — theory as t
 
 ## 📫 Connect
 
-For dialogues, collaboration, or presentations: [Your Contact Info or Website]
+For dialogues, collaboration, or presentations: [averyarijos@outlook.com]
 
 ---
 
