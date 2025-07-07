@@ -22,6 +22,37 @@ Where the **Ontopolitical Generativity Index (OGI)** measures how much a system 
 - **Guides Real Systems**: Offers practical pathways for governments, institutions, communities, technologies, and individuals to amplify the “dreamable.”
 
 ---
+🜁 About Me
+I am an architect of contradictions —
+designing at the porous edges where systems thinking, mythic imagination,
+and the politics of the dreamable meet.
+
+My GitHub is not merely a place for code;
+it is an archive of my Archopolitical Architectonics,
+my Posthumanist Phenomenology, my experiments in Artificial Intelligence,
+and the scattered constellations of my poetry,
+philosophical notes, and mythologies of the heart.
+
+Here you’ll find:
+
+Frameworks for contradiction-centric, neuro-symbolic architectures
+
+Speculative essays on ontological design
+
+Markdown fragments that chart the emotional terrains
+where power, freedom, and virtual actualization converge.
+
+I believe systems — technical, social, symbolic —
+should metabolize tension, not erase it.
+I believe in architectures that dream with us,
+remaining incomplete enough for the human and the posthuman
+to keep becoming.
+
+This is a living archive of my
+mythopoetic research, my dialectical engines,
+and my commitment to build the conditions
+for what is yet dreamable.
+---
 
 ## ⚙️ Core Components
 
