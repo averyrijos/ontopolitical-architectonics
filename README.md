@@ -48,10 +48,7 @@ I believe in architectures that dream with us,
 remaining incomplete enough for the human and the posthuman
 to keep becoming.
 
-This is a living archive of my
-mythopoetic research, my dialectical engines,
-and my commitment to build the conditions
-for what is yet dreamable.
+#### This is a living archive of mythopoetic research, my dialectical engines, and my commitment to build the conditions for what is yet dreamable.
 ---
 
 ## ⚙️ Core Components
