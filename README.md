@@ -22,7 +22,7 @@ Where the **Ontopolitical Generativity Index (OGI)** measures how much a system 
 - **Guides Real Systems**: Offers practical pathways for governments, institutions, communities, technologies, and individuals to amplify the “dreamable.”
 
 ---
-🜁 About Me
+# 🜁 About Me
 I am an architect of contradictions —
 designing at the porous edges where systems thinking, mythic imagination,
 and the politics of the dreamable meet.
