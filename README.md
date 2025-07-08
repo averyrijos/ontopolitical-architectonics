@@ -10,7 +10,9 @@ _Avery Alexander Rijos, M.S._
 **Ontopolitical Architectonics** is not just a theory — it is a design engine for living systems. It proposes that reality is never given but governed: all existence is shaped by regimes of power, semiotic codes, affective infrastructures, and mythic programs. This framework provides an actionable stack of **11 axioms** and a **universal law**:  
 > **Good = d(OGI)/dt**
 
-Where the **Ontopolitical Generativity Index (OGI)** measures how much a system enables new realities to emerge, and its derivative captures the *speed* at which creative capacity expands.
+
+(...) Where the **Ontopolitical Generativity Index (OGI)** measures how much a system enables new realities to emerge, and its derivative captures the *speed* at which creative capacity expands.
+
 ---
 ```
 =====================================================
