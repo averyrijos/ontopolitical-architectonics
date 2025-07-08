@@ -12,7 +12,7 @@ _Avery Alexander Rijos, M.S._
 
 Where the **Ontopolitical Generativity Index (OGI)** measures how much a system enables new realities to emerge, and its derivative captures the *speed* at which creative capacity expands.
 ---
-
+```
 =====================================================
               ONTOPOLITICAL ARCHITECTONICS
 =====================================================
@@ -81,7 +81,7 @@ Where the **Ontopolitical Generativity Index (OGI)** measures how much a system 
 =====================================================
             « The more contradiction, the stronger the loop »
 =====================================================
-
+```
 ---
 
 ## 📚 Why Does It Matter?
@@ -124,7 +124,7 @@ to keep becoming.
 ## ⚙️ Core Components
 
 ---
-
+```
 ──────────────────────────────────────────────
        ONTOPOLITICAL ARCHITECTONICS:
             COSMOLOGIC STACK
@@ -166,7 +166,7 @@ to keep becoming.
   The entire stack spirals contradiction into
   generative capacity → expansive becoming.
 ──────────────────────────────────────────────
-
+```
 ---
 ### 📖 **Foundational Axioms**
 - *Being is Governed*: Reality is structured by power.
@@ -181,6 +181,8 @@ to keep becoming.
 - *The Task is Sacred and Systemic*: World-making is ritual and systems engineering.
 - *Reflexivity is Immunity*: Every contradiction is redesign input.
 
+---
+```
 ──────────────────────────────────────────────
          AXIOM STACK: THE PILLARS
 ──────────────────────────────────────────────
@@ -201,15 +203,14 @@ to keep becoming.
     Axioms scaffold the system's capacity
     to metabolize contradiction into becoming.
 ──────────────────────────────────────────────
-
-
+```
 ---
 
 ### 🧩 **Universal Law**
 > **Good = d(OGI)/dt**  
 > The ethical measure of any system is the rate at which it expands collective capacity for new forms of life, feeling, and becoming.
 ---
-
+```
 ──────────────────────────────────────────────
         GENERATIVITY GRADIENT FLOW
 ──────────────────────────────────────────────
@@ -234,7 +235,7 @@ to keep becoming.
    tracking if a system actualizes
    or suppresses potentiality.
 ──────────────────────────────────────────────
-
+```
 ---
 
 ### 🔁 **The O-Loop Protocol**
@@ -245,7 +246,7 @@ to keep becoming.
 5. **Iterate Reflexively** — Fold critique back in. Anomaly is fuel.
 
 ---
-
+```
 ──────────────────────────────────────────────
               O-LOOP PROTOCOL
 ──────────────────────────────────────────────
@@ -279,7 +280,7 @@ to keep becoming.
    Reflexive feedback absorbs contradiction,
    strengthening systemic generativity.
 ──────────────────────────────────────────────
-
+```
 
 ---
 
